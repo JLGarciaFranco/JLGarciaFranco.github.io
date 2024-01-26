@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme
 title: Website for Jorge Luis Garcia Franco
 description: Site to find out about course material, research projects, publications and potential opportunities.
