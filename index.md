@@ -5,6 +5,9 @@ layout: default
 
 
 I am an Associate Professor of Atmospheric Sciences at the Escuela Nacional de Ciencias de la Tierra, Universidad Nacional Autónoma de México (UNAM) based in Mexico City. 
+
+![foto](/imgs/foto_oficial.jpg)
+
 For more information about me see: 
 
 [About](./about.md).
