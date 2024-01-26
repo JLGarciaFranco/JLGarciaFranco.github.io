@@ -1,2 +1,2 @@
-# Website for Jorge Luis García Franco
-Blog and CV
+Jorge Luis García Franco
+Blog, project description, course material and CV
