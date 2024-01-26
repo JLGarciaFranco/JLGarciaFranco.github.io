@@ -1,3 +1,7 @@
+layout: page
+title: "PAGE-TITLE"
+permalink: /URL-PATH
+
 # About Me
 
 Welcome to my personal page! I am currently a faculty member at the Escuela Nacional de Ciencias de la Tierra at UNAM in Mexico city. 
@@ -9,11 +13,9 @@ Throughout my academic journey, I've been fascinated by tropical meteorology and
 More recently, I have focused on tropical cyclone forecasts at the subseasonal-to-seasonal range. 
 
 
-## Skills
+## Projects
 
-- **Programming Languages**: I'm proficient in Python, JavaScript, and Java.
-- **Web Development**: I have experience with front-end frameworks like React.js and back-end technologies such as Node.js.
-- **Machine Learning**: I'm currently exploring the realm of machine learning and data science, particularly focusing on neural networks and deep learning.
+- **SPEAR TC projections**: Understanding TC projections 
 
 ## Interests
 
