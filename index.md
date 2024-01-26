@@ -8,8 +8,6 @@ I am an Associate Professor of Atmospheric Sciences at the Escuela Nacional de C
 
 <img src="docs/assets/imgs/foto_oficial.JPG">
 
-![foto](./imgs/foto_oficial.jpg)
-
 For more information about me see: 
 
 [About](./about.md).
@@ -18,40 +16,19 @@ A detailed description of my current research projects which broadly relate to c
 
 [Research Projects](./research.md).
 
-**bold**, _italic_, or ~~strikethrough~~.
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Projects
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
 ## Courses
 
-> You can also find out about the courses I teach and some of the material, most of it is in Spanish, in here:
+> You can also find out about the courses I teach and some of the material, most of this section is written in Spanish, in here:
 > [Courses](./courses.md).
 
 
 ### Code and datasets
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+As part of various projects, I have collaborated in the creation of the following datasets and code repositories:
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
 
-#### Header 4
+#### The MSTCP dataset
 
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
