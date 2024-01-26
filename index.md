@@ -25,23 +25,23 @@ A detailed description of my current research projects which broadly relate to c
 > [Courses](./courses.md).
 
 
-### Code and datasets
+* * *
+
+## Code and datasets
 
 As part of various projects, I have collaborated in the creation of the following datasets and code repositories:
 
 
 #### The MSTCP dataset
 
-* Based on the estimates of precipitation from the satellite product MSWEP v2, and the tropical cyclone tracks obtained from IBTrACS, this dataset provides estimates of tropical cyclone precipitation (TCP)
-*   Dataset is available in zenodo. [Zenodo link](https://zenodo.org/doi/10.5281/zenodo.8322962)
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+* Based on the estimates of precipitation from the satellite product MSWEP v2, and the tropical cyclone tracks obtained from IBTrACS, this dataset provides estimates of tropical cyclone precipitation (TCP) including mean and maximum rainfall rates associated with all TCs from 1979-2023. 
+*   Dataset is available in zenodo. [Zenodo link](https://zenodo.org/doi/10.5281/zenodo.8322962). 
+*   A pre-print describing the dataset can be found [here](https://essd.copernicus.org/preprints/essd-2023-460/)
+*   The repository belonging to this dataset, developed by Gabriel Morin is found here: 
 
-##### Header 5
+#### Local Hadley and Walker circulation decomposition.
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+1.  
 
 ###### Header 6
 
@@ -52,9 +52,7 @@ As part of various projects, I have collaborated in the creation of the followin
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 
-### There's a horizontal rule below this.
 
-* * *
 
 ### Here is an unordered list:
 
