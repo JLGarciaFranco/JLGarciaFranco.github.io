@@ -28,9 +28,9 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 ## Courses
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+> You can also find out about the courses I teach and some of the material, most of it is in Spanish, in here:
+> [Courses](./courses.md).
+
 
 ### Code and datasets
 
