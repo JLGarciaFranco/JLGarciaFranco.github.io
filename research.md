@@ -1,5 +1,8 @@
-
+---
+layout: default
+---
 
 ## Projects
 
-- **SPEAR TC projections**: Understanding TC projections 
+- **SPEAR TC projections**: Understanding projections of tropical cyclones from the SPEAR Large Ensemble
+
