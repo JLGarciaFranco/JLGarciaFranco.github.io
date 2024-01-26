@@ -11,7 +11,7 @@ For more information about me see:
 
 My current research projects which relate to climate variability, subseasonal to seasonal prediction can also be found under: 
 
-[Research Projects](./projects.md).
+[Research Projects](./research.md).
 
 **bold**, _italic_, or ~~strikethrough~~.
 
