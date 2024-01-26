@@ -2,9 +2,18 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./about.md).
+
+I am an Associate Professor of Atmospheric Sciences at the Escuela Nacional de Ciencias de la Tierra, Universidad Nacional Autónoma de México (UNAM) based in Mexico City. 
+For more information about me see: 
+
+[About](./about.md).
+
+My current research projects which relate to climate variability, subseasonal to seasonal prediction can also be found under: 
+
+[Research Projects](./projects.md).
+
+**bold**, _italic_, or ~~strikethrough~~.
 
 There should be whitespace between paragraphs.
 
