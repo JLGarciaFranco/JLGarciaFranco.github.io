@@ -14,7 +14,7 @@ For more information about me see:
 
 [About](./about.md).
 
-My current research projects which relate to climate variability, subseasonal to seasonal prediction can also be found under: 
+A detailed description of my current research projects which broadly relate to climate variability, subseasonal to seasonal prediction can be found under: 
 
 [Research Projects](./research.md).
 
