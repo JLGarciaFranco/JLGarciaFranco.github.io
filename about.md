@@ -13,10 +13,6 @@ Throughout my academic journey, I've been fascinated by tropical meteorology and
 More recently, I have focused on tropical cyclone forecasts at the subseasonal-to-seasonal range. 
 
 
-## Projects
-
-- **SPEAR TC projections**: Understanding TC projections 
-
 ## Interests
 
 Apart from coding, I have a keen interest in:
