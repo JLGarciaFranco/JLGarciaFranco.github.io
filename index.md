@@ -6,7 +6,9 @@ layout: default
 
 I am an Associate Professor of Atmospheric Sciences at the Escuela Nacional de Ciencias de la Tierra, Universidad Nacional Autónoma de México (UNAM) based in Mexico City. 
 
-<img src="docs/assets/imgs/foto_oficial.JPG">
+<img src="docs/assets/imgs/foto_oficial.JPG"
+      width="200" 
+ />
 
 For more information about me see: 
 
@@ -30,6 +32,7 @@ As part of various projects, I have collaborated in the creation of the followin
 
 #### The MSTCP dataset
 
+* Based on the estimates of precipitation from the satellite product MSWEP v2, and the tropical cyclone tracks obtained from IBTrACS, this dataset provides estimates of tropical cyclone precipitation (TCP)
 *   Dataset is available in zenodo. [Zenodo link](https://zenodo.org/doi/10.5281/zenodo.8322962)
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
