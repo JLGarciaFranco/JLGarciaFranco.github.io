@@ -33,7 +33,7 @@ As part of various projects, I have collaborated in the creation of the followin
 
 #### PyDropsondes
 
-This python package was designed to analyse dropsonde data taken inside tropical cyclones. As part of my MRes at the University of Leeds, I developed this computer project to share the tools required to compute diagnostics of TC dynamics. You can find the pages describing the project [here](https://jlgarciafranco.github.io/PyDropsondes/)
+This python package was designed to analyse dropsonde data taken inside tropical cyclones. As part of my MRes at the University of Leeds, I developed this computer project to share the tools required to compute diagnostics of TC dynamics. You can find the pages describing the project [here](https://jlgarciafranco.github.io/PyDropsondes/).
 
 #### The MSTCP dataset
 
@@ -51,15 +51,31 @@ This python package was designed to analyse dropsonde data taken inside tropical
   <head>
     <title>Pretty Paris</title>
   </head>
+  <style>
+  .container {
+  display: flex;
+  align-items: center;
+  justify-content: center
+}
+
+img {
+  max-width: 100%;
+  max-height:100%;
+}
+
+.text {
+  font-size: 20px;
+  padding-left: 20px;
+}
+  </style>
   <body>
     <div class="container">
       <div class="image">
         <img src="https://i.pinimg.com/564x/59/32/29/593229739184504afd9507cc42a9cb86.jpg">
       </div>
       <div class="text">
-        <h1>This is a beautiful picture.</h1>
+        <h1>Paris is one of the most magnificient cities in France.</h1>
       </div>
     </div>
   </body>
 </html>
-
