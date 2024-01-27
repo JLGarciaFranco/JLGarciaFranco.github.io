@@ -69,10 +69,13 @@ img {
   <body>
     <div class="container">
       <div class="image">
-        <img src="https://i.pinimg.com/564x/59/32/29/593229739184504afd9507cc42a9cb86.jpg">
+        <img src="docs/assets/imgs/foto_oficial.JPG">
       </div>
       <div class="text">
-        <h1>Paris is one of the most magnificient cities in France.</h1>
+        <h1>I am an Associate Professor of Atmospheric Sciences at the Escuela Nacional de Ciencias de la Tierra, Universidad Nacional Autónoma de México (UNAM) based in Mexico City. </h1>
+            My current research aims to better understand tropical climate variability and change, specially regarding monsoons in the Americas. 
+            I am also interested in tropical cyclone prediction at the extended-range, so I participate in several projects of sub-seasonal-to-seasonal prediction (S2S). 
+            
       </div>
     </div>
   </body>
