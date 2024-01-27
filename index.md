@@ -31,6 +31,9 @@ A detailed description of my current research projects which broadly relate to c
 
 As part of various projects, I have collaborated in the creation of the following datasets and code repositories:
 
+#### PyDropsondes
+
+This python package was designed to analyse dropsonde data taken inside tropical cyclones. As part of my MRes at the University of Leeds, I developed this computer project to share the tools required to compute diagnostics of TC dynamics. You can find the pages describing the project [here](https://jlgarciafranco.github.io/PyDropsondes/)
 
 #### The MSTCP dataset
 
@@ -43,4 +46,20 @@ As part of various projects, I have collaborated in the creation of the followin
 
 1.  A decomposition of the tropical circulation into a meridional and zonal circulation locally can be accomplished through the method of Schwendike et al., 2014. The repository found [here](https://github.com/JLGarciaFranco/Local_walker_hadley). Written in Python, this code performs the decomposition. Further details soon.
 
+
+<html>
+  <head>
+    <title>Pretty Paris</title>
+  </head>
+  <body>
+    <div class="container">
+      <div class="image">
+        <img src="https://i.pinimg.com/564x/59/32/29/593229739184504afd9507cc42a9cb86.jpg">
+      </div>
+      <div class="text">
+        <h1>This is a beautiful picture.</h1>
+      </div>
+    </div>
+  </body>
+</html>
 
