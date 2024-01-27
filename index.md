@@ -10,11 +10,13 @@ I am an Associate Professor of Atmospheric Sciences at the Escuela Nacional de C
       width="200" 
  />
 
+My current research aims to better understand tropical climate variability and change, specially regarding monsoons in the Americas. 
+I am also interested in tropical cyclone prediction at the extended-range, so I participate in several projects of sub-seasonal-to-seasonal prediction (S2S). 
 For more information about me see: 
 
 [About](./about.md).
 
-A detailed description of my current research projects which broadly relate to climate variability, subseasonal to seasonal prediction can be found under: 
+A detailed description of my current research projects: 
 
 [Research Projects](./research.md).
 
@@ -72,9 +74,9 @@ img {
         <img src="docs/assets/imgs/foto_oficial.JPG">
       </div>
       <div class="text">
-        <h1>I am an Associate Professor of Atmospheric Sciences at the Escuela Nacional de Ciencias de la Tierra, Universidad Nacional Autónoma de México (UNAM) based in Mexico City. </h1>
-            My current research aims to better understand tropical climate variability and change, specially regarding monsoons in the Americas. 
-            I am also interested in tropical cyclone prediction at the extended-range, so I participate in several projects of sub-seasonal-to-seasonal prediction (S2S). 
+        <h1>Associate Professor of Atmospheric Sciences</h1>
+            Faculty at the Escuela Nacional de Ciencias de la Tierra, Universidad Nacional Autónoma de México (UNAM), in Mexico City. 
+            
             
       </div>
     </div>
