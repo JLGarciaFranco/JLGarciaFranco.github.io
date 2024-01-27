@@ -28,8 +28,10 @@ img {
       </div>
       <div class="text">
         <h1>Associate Professor of Atmospheric Sciences</h1>
-            Faculty at the Escuela Nacional de Ciencias de la Tierra, Universidad Nacional Autónoma de México (UNAM), in Mexico City.    <br>
-            Me gustan los tacos de tripa y las nubes que giran.
+            Escuela Nacional de Ciencias de la Tierra  <br> Universidad Nacional Autónoma de México (UNAM)    <br>
+            Me gustan los tacos de tripa y las nubes que giran.  <br>
+            Also Adjunct Research Scientist at Lamont-Doherty Earth Observatory.
+        
       </div>
     </div>
   </body>
@@ -72,5 +74,5 @@ This python package was designed to analyse dropsonde data taken inside tropical
 
 #### Local Hadley and Walker circulation decomposition.
 
-1.  A decomposition of the tropical circulation into a meridional and zonal circulation locally can be accomplished through the method of Schwendike et al., 2014. The repository found [here](https://github.com/JLGarciaFranco/Local_walker_hadley). Written in Python, this code performs the decomposition. Further details soon.
+A decomposition of the tropical circulation into a meridional and zonal circulation locally can be accomplished through the method of Schwendike et al., 2014. The repository found [here](https://github.com/JLGarciaFranco/Local_walker_hadley). Written in Python, this code performs the decomposition. Further details soon.
 
