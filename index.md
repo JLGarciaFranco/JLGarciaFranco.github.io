@@ -26,6 +26,7 @@ A detailed description of my current research projects:
 > You can also find out about the courses I teach and some of the material, most of this section is written in Spanish, in here:
 > [Courses](./courses.md).
 
+Currently looking for students interested in pursuing a Masters or PhD degree at UNAM. Contact me. 
 
 * * *
 
