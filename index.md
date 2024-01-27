@@ -75,9 +75,7 @@ img {
       </div>
       <div class="text">
         <h1>Associate Professor of Atmospheric Sciences</h1>
-            Faculty at the Escuela Nacional de Ciencias de la Tierra, Universidad Nacional Autónoma de México (UNAM), in Mexico City. 
-            
-            
+            Faculty at the Escuela Nacional de Ciencias de la Tierra, Universidad Nacional Autónoma de México (UNAM), in Mexico City.            
       </div>
     </div>
   </body>
