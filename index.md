@@ -13,7 +13,7 @@ layout: default
   justify-content: center
 }
 img {
-  width: 50px;
+  width: 250px;
   max-height:80%;
 }
 .text {
