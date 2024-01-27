@@ -2,13 +2,38 @@
 layout: default
 ---
 
-
-
-I am an Associate Professor of Atmospheric Sciences at the Escuela Nacional de Ciencias de la Tierra, Universidad Nacional Autónoma de México (UNAM) based in Mexico City. 
-
-<img src="docs/assets/imgs/foto_oficial.JPG"
-      width="200" 
- />
+<html>
+  <head>
+    <title>Pretty Paris</title>
+  </head>
+  <style>
+  .container {
+  display: flex;
+  align-items: center;
+  justify-content: center
+}
+img {
+  max-width: 100%;
+  max-height:100%;
+}
+.text {
+  font-size: 20px;
+  padding-left: 20px;
+}
+  </style>
+  <body>
+    <div class="container">
+      <div class="image">
+        <img src="docs/assets/imgs/foto_oficial.JPG">
+      </div>
+      <div class="text">
+        <h1>Associate Professor of Atmospheric Sciences</h1>
+            Faculty at the Escuela Nacional de Ciencias de la Tierra, Universidad Nacional Autónoma de México (UNAM), in Mexico City.    
+            Me gustan los tacos de tripa y las nubes que giran.
+      </div>
+    </div>
+  </body>
+</html>
 
 My current research aims to better understand tropical climate variability and change, specially regarding monsoons in the Americas. 
 I am also interested in tropical cyclone prediction at the extended-range, so I participate in several projects of sub-seasonal-to-seasonal prediction (S2S). 
@@ -49,35 +74,3 @@ This python package was designed to analyse dropsonde data taken inside tropical
 
 1.  A decomposition of the tropical circulation into a meridional and zonal circulation locally can be accomplished through the method of Schwendike et al., 2014. The repository found [here](https://github.com/JLGarciaFranco/Local_walker_hadley). Written in Python, this code performs the decomposition. Further details soon.
 
-
-<html>
-  <head>
-    <title>Pretty Paris</title>
-  </head>
-  <style>
-  .container {
-  display: flex;
-  align-items: center;
-  justify-content: center
-}
-img {
-  max-width: 100%;
-  max-height:100%;
-}
-.text {
-  font-size: 20px;
-  padding-left: 20px;
-}
-  </style>
-  <body>
-    <div class="container">
-      <div class="image">
-        <img src="docs/assets/imgs/foto_oficial.JPG">
-      </div>
-      <div class="text">
-        <h1>Associate Professor of Atmospheric Sciences</h1>
-            Faculty at the Escuela Nacional de Ciencias de la Tierra, Universidad Nacional Autónoma de México (UNAM), in Mexico City.            
-      </div>
-    </div>
-  </body>
-</html>
