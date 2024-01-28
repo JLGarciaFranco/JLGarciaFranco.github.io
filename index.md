@@ -27,7 +27,7 @@ img {
         <img src="docs/assets/imgs/foto_oficial.JPG">
       </div>
       <div class="text">
-        <h1>Associate Professor of Atmospheric Sciences</h1>
+        <h3>Associate Professor of Atmospheric Sciences</h3>
             Escuela Nacional de Ciencias de la Tierra  <br> Universidad Nacional Autónoma de México (UNAM)    <br>
             Me gustan los tacos de tripa y las nubes que giran.  <br>
             Also Adjunct Research Scientist at Lamont-Doherty Earth Observatory.
