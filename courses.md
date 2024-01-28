@@ -1,6 +1,8 @@
+--- 
 layout: page
 title: "Courses"
 permalink: /courses.md
+---
 
 
 description: Cursos impartidos en la Escuela Nacional de Ciencias de la Tierra.
