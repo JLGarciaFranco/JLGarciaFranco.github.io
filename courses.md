@@ -1,6 +1,8 @@
-description: Cursos impartidos en la Escuela Nacional de Ciencias de la Tierra.
+
 
 # Courses
+
+description: Cursos impartidos en la Escuela Nacional de Ciencias de la Tierra.
 
 In this page you can find what courses I have taught in the last semesters including: 
 
