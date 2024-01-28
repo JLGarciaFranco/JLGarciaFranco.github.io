@@ -2,7 +2,7 @@
 layout: page
 title: "About"
 description: About me, acerca de mí.
-permalink: /about.md
+permalink: about.md
 ---
 
 # About Me
