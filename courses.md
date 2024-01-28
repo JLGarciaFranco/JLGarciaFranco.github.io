@@ -1,6 +1,7 @@
+layout: page
+title: "Courses"
+permalink: /courses.md
 
-
-# Courses
 
 description: Cursos impartidos en la Escuela Nacional de Ciencias de la Tierra.
 
