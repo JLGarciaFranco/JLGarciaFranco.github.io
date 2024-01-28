@@ -1,6 +1,9 @@
+---
 layout: page
 title: "About"
+description: About me, acerca de mí.
 permalink: /about.md
+---
 
 # About Me
 
@@ -12,13 +15,6 @@ I hold a PhD from the University of Oxford on Atmospheric, Oceanic and Planetary
 Throughout my academic journey, I've been fascinated by tropical meteorology and climate. Most of my research aims to better understand climate variability in the tropics through the use of climate models and observations. 
 More recently, I have focused on tropical cyclone forecasts at the subseasonal-to-seasonal range. 
 
+# Contact me
 
-## Interests
-
-Apart from coding, I have a keen interest in:
-
-- **Photography**: Capturing moments and exploring different perspectives through the lens.
-- **Music**: Playing guitar and experimenting with different genres of music.
-- **Travel**: Exploring new places, experiencing diverse cultures, and embracing new adventures.
-
-Feel free to reach out to me via [email](mailto:your.email@example.com) if you'd like to connect or collaborate on exciting projects. Let's build something amazing together!
+Feel free to reach out to me via [email](jorge.garciafranco@encit.unam.mx) if you'd like to connect or collaborate on exciting projects. Let's build something amazing together!
