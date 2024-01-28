@@ -1,8 +1,7 @@
 ---
-layout: page
+layout: default
 title: "About"
 description: About me, acerca de mí.
-permalink: about.md
 ---
 
 # About Me
