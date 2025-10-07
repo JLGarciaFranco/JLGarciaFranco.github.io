@@ -6,7 +6,7 @@ layout: default
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dr. Pretty Paris - Atmospheric Sciences</title>
+    <title>Dr. Jorge Luis García Franco - Atmospheric Sciences</title>
     <style>
         * {
             margin: 0;
@@ -387,8 +387,8 @@ layout: default
             <div class="papers-grid">
                 <div class="paper-card">
                     <span class="paper-number">1</span>
-                    <h3>Paper Title One</h3>
-                    <p>Brief description of your first paper. This could include the journal name, year, and key findings or contributions.</p>
+                    <h3>MJO‐TC teleconnections and their influence on North American precipitation: Implications for subseasonal prediction.</h3>
+                    <p> Geophysical Research Letters, 2025. </p>
                     <a href="papers/paper1.pdf" class="paper-link">
                         <span>Read Paper</span>
                         <span>→</span>
