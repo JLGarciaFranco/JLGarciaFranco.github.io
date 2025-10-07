@@ -403,8 +403,8 @@ layout: default
 
                 <div class="paper-card">
                     <span class="paper-number">2</span>
-                    <h3>Paper Title Two</h3>
-                    <p>Brief description of your second paper. This could include the journal name, year, and key findings or contributions.</p>
+                    <h3>Subseasonal prediction of tropical cyclone precipitation</h3>
+                    <p>Weather and Forecasting, 2025.</p>
                     <a href="docs/assets/imgs/WAF_Subseasonal_2025-1.pdf" class="paper-link">
                         <span>Read Paper</span>
                         <span>→</span>
@@ -414,7 +414,7 @@ layout: default
                 <div class="paper-card">
                     <span class="paper-number">3</span>
                     <h3>Hurricane Otis: the costliest and strongest hurricane at landfall on record in Mexico</h3>
-                    <p>Brief description of your third paper. This could include the journal name, year, and key findings or contributions.</p>
+                    <p>Weather, 2024..</p>
                     <a href="papers/paper3.pdf" class="paper-link">
                         <span>Read Paper</span>
                         <span>→</span>
@@ -423,8 +423,8 @@ layout: default
 
                 <div class="paper-card">
                     <span class="paper-number">4</span>
-                    <h3>Paper Title Four</h3>
-                    <p>Brief description of your fourth paper. This could include the journal name, year, and key findings or contributions.</p>
+                    <h3>Understanding tropical surface impacts of the Quasi-Biennial Oscillation</h3>
+                    <p> Journal of Geophysical Research: Atmospheres, 2023.</p>
                     <a href="papers/paper4.pdf" class="paper-link">
                         <span>Read Paper</span>
                         <span>→</span>
@@ -433,8 +433,8 @@ layout: default
 
                 <div class="paper-card">
                     <span class="paper-number">5</span>
-                    <h3>Paper Title Five</h3>
-                    <p>Brief description of your fifth paper. This could include the journal name, year, and key findings or contributions.</p>
+                    <h3>Subseasonal prediction of the Mesomaerican Midsummer drought and the Rainy Season</h3>
+                    <p>Journal of Geophysical Research: Atmospheres, 2023.</p>
                     <a href="papers/paper5.pdf" class="paper-link">
                         <span>Read Paper</span>
                         <span>→</span>
