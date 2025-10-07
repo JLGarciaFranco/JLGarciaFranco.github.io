@@ -445,6 +445,11 @@ layout: default
             <div class="group-photo-container">
                 <img src="imgs/group_photo.jpg" alt="Research Group Photo">
             </div>
+            <p>Integrantes del grupo:</p>
+            <p>Andrea Guadalupe Velázquez Cisneros</p>
+            <p>Integrantes del grupo:</p>
+            <p>Integrantes del grupo:</p>
+            <p>Integrantes del grupo:</p>
         </div>
     </section>
 
