@@ -441,9 +441,9 @@ layout: default
     <!-- Group Photo Section -->
     <section class="group-section">
         <div class="container">
-            <h2 class="section-title" style="color: white;">Our Research Group</h2>
+            <h2 class="section-title" style="color: white;">Grupo de Modelación Climática Tropical</h2>
             <div class="group-photo-container">
-                <img src="group_photo.jpg" alt="Research Group Photo">
+                <img src="docs/group_photo.jpg" alt="Research Group Photo">
             </div>
         </div>
     </section>
