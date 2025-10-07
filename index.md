@@ -362,7 +362,7 @@ layout: default
     <section class="hero">
         <div class="hero-content">
             <div class="hero-text">
-                <h1>Pretty Paris</h1>
+                <h1>JLGF</h1>
                 <h2>Associate Professor of Atmospheric Sciences</h2>
                 <p>📍 Escuela Nacional de Ciencias de la Tierra<br>
                 Universidad Nacional Autónoma de México (UNAM)</p>
@@ -443,7 +443,7 @@ layout: default
         <div class="container">
             <h2 class="section-title" style="color: white;">Grupo de Modelación Climática Tropical</h2>
             <div class="group-photo-container">
-                <img src="docs/group_photo.jpg" alt="Research Group Photo">
+                <img src="imgs/group_photo.jpg" alt="Research Group Photo">
             </div>
         </div>
     </section>
