@@ -395,7 +395,7 @@ layout: default
                     <span class="paper-number">1</span>
                     <h3>MJO‐TC teleconnections and their influence on North American precipitation: Implications for subseasonal prediction.</h3>
                     <p> Geophysical Research Letters, 2025. </p>
-                    <a href="papers/paper1.pdf" class="paper-link">
+                    <a href="docs/assets/imgs/grl_2025_published_compressed.pdf" class="paper-link">
                         <span>Read Paper</span>
                         <span>→</span>
                     </a>
@@ -405,7 +405,7 @@ layout: default
                     <span class="paper-number">2</span>
                     <h3>Paper Title Two</h3>
                     <p>Brief description of your second paper. This could include the journal name, year, and key findings or contributions.</p>
-                    <a href="papers/paper2.pdf" class="paper-link">
+                    <a href="docs/assets/imgs/WAF_Subseasonal_2025-1.pdf" class="paper-link">
                         <span>Read Paper</span>
                         <span>→</span>
                     </a>
