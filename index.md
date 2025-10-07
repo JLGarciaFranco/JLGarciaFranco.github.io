@@ -80,7 +80,7 @@ layout: default
             font-size: 3.5em;
             margin-bottom: 20px;
             font-weight: 700;
-            text-shadow: 2px 2px 4px rgba(0,0,0,0.2);
+            text-shadow: 2px 2px 4px rgba(100,0,0,0.2);
         }
 
         .hero-text h2 {
@@ -445,11 +445,12 @@ layout: default
             <div class="group-photo-container">
                 <img src="imgs/group_photo.jpg" alt="Research Group Photo">
             </div>
-            <p>Integrantes del grupo:</p>
+            <h3>Integrantes del grupo:</h3>
             <p>Andrea Guadalupe Velázquez Cisneros</p>
-            <p>Integrantes del grupo:</p>
-            <p>Integrantes del grupo:</p>
-            <p>Integrantes del grupo:</p>
+            <p>Geraldine Solorio Zamora </p>
+            <p>Frida Lesly Cortés López</p>
+            <p>Virgil Ortiz Lascurain</p>
+            <p>Melissa Saraí Ruíz González</p>
         </div>
     </section>
 
@@ -457,8 +458,8 @@ layout: default
     <section class="cta-section">
         <div class="cta-box">
             <h3>Looking for Graduate Students</h3>
-            <p>Currently seeking motivated students interested in pursuing a Masters or PhD degree at UNAM focusing on tropical climate dynamics and prediction.</p>
-            <a href="mailto:your.email@unam.mx" class="btn-primary">Get in Touch</a>
+            <p>Currently seeking (sort of) motivated students interested in pursuing a Masters or PhD degree at UNAM focusing on tropical climate dynamics and prediction.</p>
+            <a href="jorge.garciafranco@encit.unam.mx" class="btn-primary">Get in Touch</a>
         </div>
     </section>
 
