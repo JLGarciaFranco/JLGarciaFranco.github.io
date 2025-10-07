@@ -76,16 +76,22 @@ layout: default
             }
         }
 
+
+.hero-text p {
+    color: #f0f0f0;  /* Change this hex code for paragraph color */
+}
         .hero-text h1 {
             font-size: 3.5em;
             margin-bottom: 20px;
             font-weight: 700;
+            color: #ffffff;
             text-shadow: 2px 2px 4px rgba(100,0,0,0.2);
         }
 
         .hero-text h2 {
             font-size: 1.8em;
             margin-bottom: 30px;
+            color: #ffd700;
             font-weight: 400;
             opacity: 0.95;
         }
