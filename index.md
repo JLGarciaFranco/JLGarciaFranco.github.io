@@ -395,7 +395,7 @@ layout: default
                     <span class="paper-number">1</span>
                     <h3>MJO‐TC teleconnections and their influence on North American precipitation: Implications for subseasonal prediction.</h3>
                     <p> Geophysical Research Letters, 2025. </p>
-                    <a href="docs/assets/imgs/grl_2025_published_compressed.pdf" class="paper-link">
+                    <a href="docs/assets/imgs/grl_2025_published_compressed-1.pdf" class="paper-link">
                         <span>Read Paper</span>
                         <span>→</span>
                     </a>
@@ -415,7 +415,7 @@ layout: default
                     <span class="paper-number">3</span>
                     <h3>Hurricane Otis: the costliest and strongest hurricane at landfall on record in Mexico</h3>
                     <p>Weather, 2024..</p>
-                    <a href="papers/paper3.pdf" class="paper-link">
+                    <a href="docs/assets/imgs/jgra_atmospheres_2023_jlgf_compressed.pdf" class="paper-link">
                         <span>Read Paper</span>
                         <span>→</span>
                     </a>
@@ -425,7 +425,7 @@ layout: default
                     <span class="paper-number">4</span>
                     <h3>Understanding tropical surface impacts of the Quasi-Biennial Oscillation</h3>
                     <p> Journal of Geophysical Research: Atmospheres, 2023.</p>
-                    <a href="papers/paper4.pdf" class="paper-link">
+                    <a href="docs/assets/imgs/jgra_atmospheres_2023_jlgf_compressed.pdf" class="paper-link">
                         <span>Read Paper</span>
                         <span>→</span>
                     </a>
