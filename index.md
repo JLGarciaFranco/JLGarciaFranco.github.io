@@ -407,7 +407,7 @@ layout: default
 
                 <div class="paper-card">
                     <span class="paper-number">3</span>
-                    <h3>Paper Title Three</h3>
+                    <h3>Hurricane Otis: the costliest and strongest hurricane at landfall on record in Mexico</h3>
                     <p>Brief description of your third paper. This could include the journal name, year, and key findings or contributions.</p>
                     <a href="papers/paper3.pdf" class="paper-link">
                         <span>Read Paper</span>
